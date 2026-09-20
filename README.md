@@ -23,6 +23,11 @@ Site : https://jeromegsq.github.io/zelda-totk-companion/
 Cœurs d'un plat cuisiné = somme des `hp` des ingrédients / 2 (vérifié sur les recettes à chiffre fixe de l'article).
 Sel, beurre et condiments peuvent ajouter des cœurs non comptés.
 
+## PWA
+
+Manifeste (`public/manifest.webmanifest`), icônes (`node scripts/icons.mjs`) et service worker : `vite build` génère
+`dist/sw.js`, qui précache tout le site (marche hors ligne). Sur Firefox Android : menu ⋮ → Installer.
+
 ## Déploiement
 
 Le contenu de `dist/` est publié sur la branche `gh-pages`.

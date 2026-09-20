@@ -88,7 +88,7 @@ export default function App() {
         <button className="burger" onClick={() => setMenuOpen(true)} aria-label="Ouvrir le menu" aria-expanded={menuOpen}>
           <span /><span /><span />
         </button>
-        <h1>{current.label} <small>Zelda Tears of the Kingdom</small></h1>
+        <h1>{current.label} <small>TOTK Companion</small></h1>
       </header>
 
       {menuOpen && <div className="scrim" onClick={() => setMenuOpen(false)} />}

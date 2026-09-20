@@ -1,7 +1,7 @@
 {
-  "name": "Recettes Zelda TotK",
-  "short_name": "Recettes TotK",
-  "description": "Recherche et favoris pour les recettes de Zelda: Tears of the Kingdom",
+  "name": "TOTK Companion",
+  "short_name": "TOTK Companion",
+  "description": "Recettes (recherche, favoris) et carte interactive de Zelda: Tears of the Kingdom",
   "lang": "fr",
   "start_url": "./",
   "scope": "./",

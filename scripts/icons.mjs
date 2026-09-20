@@ -1,4 +1,4 @@
-// Génère les icônes PWA (cœur rouge sur fond sombre) sans dépendance : rasterisation + encodeur PNG
+// Génère les icônes PWA (Triforce dorée sur fond sombre) sans dépendance : rasterisation + encodeur PNG
 import { deflateSync } from 'node:zlib'
 import { writeFileSync } from 'node:fs'
 
@@ -28,23 +28,29 @@ const png = (size, rgba) => {
   return Buffer.concat([Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]), chunk('IHDR', ihdr), chunk('IDAT', deflateSync(raw)), chunk('IEND', Buffer.alloc(0))])
 }
 
-const BG = [0x1b, 0x1a, 0x17], HEART = [0xe5, 0x48, 0x4d]
-// courbe du cœur : (x²+y²-1)³ - x²y³ <= 0 ; le cœur occupe ~55 % de l'icône (zone sûre des icônes « maskable »)
-const inHeart = (px, py, size) => {
-  const x = ((px / size) - 0.5) * 2 / 0.55 * 1.15
-  const y = -(((py / size) - 0.5) * 2 / 0.55 * 1.15) + 0.1
-  return (x * x + y * y - 1) ** 3 - x * x * y ** 3 <= 0
+const BG = [0x1b, 0x1a, 0x17], GOLD = [0xe8, 0xc2, 0x5a]
+// Triforce : grand triangle équilatéral (côté 56 % de l'icône, dans la zone sûre « maskable »),
+// trois triangles pleins, le triangle central inversé reste vide
+const A = [0.5, 0.2575], B = [0.22, 0.7425], C = [0.78, 0.7425]
+const mid = (p, q) => [(p[0] + q[0]) / 2, (p[1] + q[1]) / 2]
+const AB = mid(A, B), AC = mid(A, C), BC = mid(B, C)
+const TRIANGLES = [[A, AB, AC], [AB, B, BC], [AC, BC, C]]
+const inTriangle = (x, y, [p, q, r]) => {
+  const side = (a, b) => (b[0] - a[0]) * (y - a[1]) - (b[1] - a[1]) * (x - a[0])
+  const d = [side(p, q), side(q, r), side(r, p)]
+  return d.every((v) => v >= 0) || d.every((v) => v <= 0)
 }
+const inShape = (px, py, size) => TRIANGLES.some((t) => inTriangle(px / size, py / size, t))
 const render = (size) => {
   const buf = Buffer.alloc(size * size * 4)
   const n = 3
   for (let y = 0; y < size; y++)
     for (let x = 0; x < size; x++) {
       let hit = 0
-      for (let sy = 0; sy < n; sy++) for (let sx = 0; sx < n; sx++) hit += inHeart(x + (sx + 0.5) / n, y + (sy + 0.5) / n, size)
+      for (let sy = 0; sy < n; sy++) for (let sx = 0; sx < n; sx++) hit += inShape(x + (sx + 0.5) / n, y + (sy + 0.5) / n, size)
       const t = hit / (n * n)
       const i = (y * size + x) * 4
-      for (let c = 0; c < 3; c++) buf[i + c] = Math.round(BG[c] * (1 - t) + HEART[c] * t)
+      for (let c = 0; c < 3; c++) buf[i + c] = Math.round(BG[c] * (1 - t) + GOLD[c] * t)
       buf[i + 3] = 255
     }
   return buf

@@ -1,4 +1,4 @@
-# Recettes Zelda TotK
+# TOTK Companion
 
 Recherche et favoris (localStorage) pour les 228 recettes de Zelda: Tears of the Kingdom.
 Effets en icônes, ingrédients avec icône et valeur de soin.

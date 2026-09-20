@@ -13,7 +13,19 @@ function loadFavs() {
   }
 }
 
+const MAP_URL = 'https://www.gamertw.com/fr/zelda/totk/map'
+const VIEWS = [
+  { id: 'recettes', label: 'Recettes', icon: '🍲' },
+  { id: 'carte', label: 'Carte interactive', icon: '🗺️' },
+]
+
+// La vue vit dans le hash (#carte) : le bouton retour d'Android fonctionne
+const viewFromHash = () => (location.hash === '#carte' ? 'carte' : 'recettes')
+
 export default function App() {
+  const [view, setView] = useState(viewFromHash)
+  const [menuOpen, setMenuOpen] = useState(false)
+  const [mapLoaded, setMapLoaded] = useState(view === 'carte') // l'iframe ne se charge qu'à la première ouverture
   const [query, setQuery] = useState('')
   const [onlyFavs, setOnlyFavs] = useState(false)
   const [favs, setFavs] = useState(loadFavs)
@@ -26,17 +38,35 @@ export default function App() {
     } catch {}
   }, [favs])
 
+  useEffect(() => {
+    const onHash = () => setView(viewFromHash())
+    window.addEventListener('hashchange', onHash)
+    return () => window.removeEventListener('hashchange', onHash)
+  }, [])
+
+  useEffect(() => {
+    if (view === 'carte') setMapLoaded(true)
+    setMenuOpen(false)
+  }, [view])
+
+  useEffect(() => {
+    if (!menuOpen) return
+    const onKey = (e) => e.key === 'Escape' && setMenuOpen(false)
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  }, [menuOpen])
+
   // "/" pour focus la recherche
   useEffect(() => {
     const onKey = (e) => {
-      if (e.key === '/' && document.activeElement !== input.current) {
+      if (e.key === '/' && view === 'recettes' && document.activeElement !== input.current) {
         e.preventDefault()
         input.current.focus()
       }
     }
     window.addEventListener('keydown', onKey)
     return () => window.removeEventListener('keydown', onKey)
-  }, [])
+  }, [view])
 
   const results = useMemo(() => {
     const r = search(deferred)
@@ -50,9 +80,28 @@ export default function App() {
       return next
     })
 
+  const current = VIEWS.find((v) => v.id === view)
+
   return (
-    <main>
-      <h1>Recettes Zelda <small>Tears of the Kingdom</small></h1>
+    <>
+      <header className="top">
+        <button className="burger" onClick={() => setMenuOpen(true)} aria-label="Ouvrir le menu" aria-expanded={menuOpen}>
+          <span /><span /><span />
+        </button>
+        <h1>{current.label} <small>Zelda Tears of the Kingdom</small></h1>
+      </header>
+
+      {menuOpen && <div className="scrim" onClick={() => setMenuOpen(false)} />}
+      <nav className={'drawer' + (menuOpen ? ' open' : '')} aria-label="Menu" aria-hidden={!menuOpen} inert={!menuOpen}>
+        {VIEWS.map((v) => (
+          <a key={v.id} href={v.id === 'recettes' ? '#' : '#' + v.id} aria-current={v.id === view ? 'page' : undefined}
+             onClick={() => v.id === view && setMenuOpen(false)}>
+            <span aria-hidden="true">{v.icon}</span> {v.label}
+          </a>
+        ))}
+      </nav>
+
+      <main hidden={view !== 'recettes'}>
 
       <div className="bar">
         <input
@@ -104,6 +153,14 @@ export default function App() {
       {!results.length && (
         <p className="empty">{onlyFavs && !query ? 'Aucun favori pour l’instant : cliquez sur ☆.' : 'Aucun résultat.'}</p>
       )}
-    </main>
+      </main>
+
+      {mapLoaded && (
+        <section className="map" hidden={view !== 'carte'}>
+          <iframe src={MAP_URL} title="Carte interactive de Tears of the Kingdom" referrerPolicy="no-referrer" />
+          <a className="map-open" href={MAP_URL} target="_blank" rel="noreferrer">Ouvrir dans un onglet ↗</a>
+        </section>
+      )}
+    </>
   )
 }

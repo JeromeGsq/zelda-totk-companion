@@ -1,0 +1,8025 @@
+[
+ {
+  "id": 1,
+  "name": "Brochette de champis",
+  "effect": "restaure 2 cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "2 Champis au choix",
+  "notes": [],
+  "img": "img/1694735-zelda-totk-brochette-champis-64x64-1.png",
+  "items": [
+   {
+    "n": 2,
+    "alts": [
+     {
+      "label": "Champis au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "name": "Délice des bois à la viande",
+  "effect": "restaure 3 cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 venaison + 1 Champi au choix",
+  "notes": [],
+  "img": "img/1694919-1694739-zelda-totk-delice-bois-viande-64x64-1-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Délice des bois au poisson",
+  "effect": "restaure 4 cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 fruit + 1 Champi + 1 poisson au choix",
+  "notes": [],
+  "img": "img/1694922-1694746-botw-fish-and-mushroom-skewer-icon-64x64-2-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fruit",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 6
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Brochette de viande",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "2 viandes au choix",
+  "notes": [],
+  "img": "img/1694923-botw-meat-skewer-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 2,
+    "alts": [
+     {
+      "label": "Viandes au choix",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Brochette de poisson",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "2 poissons au choix",
+  "notes": [],
+  "img": "img/1694926-botw-fish-skewer-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 2,
+    "alts": [
+     {
+      "label": "Poissons au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Brochette de la mer",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "2 crabes différents",
+  "notes": [],
+  "img": "img/1694928-botw-seafood-skewer-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 2,
+    "alts": [
+     {
+      "label": "Crabes différents",
+      "mat": "Crabe lame",
+      "icon": "mat/Item_InsectGet_K.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "name": "Brochettes de viande",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "4 viandes",
+  "notes": [],
+  "img": "img/1694927-botw-copious-meat-skewers-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 4,
+    "alts": [
+     {
+      "label": "Viandes",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "name": "Brochettes de poisson",
+  "effect": "restaure 10+ cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "4 poissons différents",
+  "notes": [],
+  "img": "img/1694929-botw-copious-fish-skewers-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 4,
+    "alts": [
+     {
+      "label": "Poissons différents",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "name": "Fruits vapeur",
+  "effect": "restaure 2 cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 fruit + 1 légume au choix",
+  "notes": [],
+  "img": "img/1694930-1694859-botw-steamed-fruit-icon-64x64-1-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fruit",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 6
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume au choix",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "name": "Tomates vapeur",
+  "effect": "restaure 3 cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 grappe de tomates d'Hyrule + 1 légume au choix",
+  "notes": [],
+  "img": "img/1694931-steamed-20tomatoes-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Grappe de tomates d'Hyrule",
+      "mat": "Grappe de tomates d'Hyrule",
+      "icon": "mat/Item_Fruit_M.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume au choix",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "name": "Champis vapeur",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 champi au choix + 1 herbe au choix",
+  "notes": [],
+  "img": "img/1694932-botw-steamed-mushrooms-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Herbe au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "name": "Viande vapeur",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 venaison + 1 légume au choix",
+  "notes": [],
+  "img": "img/1694933-botw-steamed-meat-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume au choix",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "name": "Poisson vapeur",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 poisson au choix + 1 légume au choix",
+  "notes": [],
+  "img": "img/1694934-botw-steamed-fish-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume au choix",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "name": "Piments sautés",
+  "effect": "restaure des cœurs rouges + effet anti-froid",
+  "ingredients": "1 piment ou plus",
+  "notes": [],
+  "img": "img/1694935-botw-spicy-sauteed-peppers-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Piment ou plus",
+      "mat": "Piment",
+      "icon": "mat/Item_Fruit_I.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "name": "Sauté de fruits de la forêt",
+  "effect": "restaure des cœurs + effet selon l'ingrédient",
+  "ingredients": "1 gland + 1 fruit d'oiseau",
+  "notes": [],
+  "img": "img/1694936-botw-sauteed-nuts-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Gland",
+      "mat": "Gland",
+      "icon": "mat/Item_Fruit_K.webp",
+      "hp": 1
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fruit d'oiseau",
+      "mat": "Fruit d'oiseau",
+      "icon": "mat/Item_Fruit_L.webp",
+      "hp": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "name": "Poêlée végétale",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 légume au choix + 1 herbe au choix",
+  "notes": [],
+  "img": "img/1694937-botw-fried-wild-greens-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume au choix",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Herbe au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "name": "Grande poêlée végétale",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "4 herbes/fleurs différentes",
+  "notes": [],
+  "img": "img/1694867-botw-copious-fried-wild-greens-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 4,
+    "alts": [
+     {
+      "label": "Herbes/fleurs différentes",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "name": "Cayeux rôtis",
+  "effect": "restaure des cœurs rouges + rend de l'endurance",
+  "ingredients": "1 gousse Enduro",
+  "notes": [],
+  "img": "img/1694939-cooked-20stambulb-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Gousse Enduro",
+      "mat": "Gousse enduro",
+      "icon": "mat/Item_PlantGet_S.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "name": "Gousse sautée",
+  "effect": "restaure des cœurs rouges + rend de l'endurance",
+  "ingredients": "1 gousse Enduro + 1 motte de beurre",
+  "notes": [],
+  "img": "img/1694940-buttered-20stambulb-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Gousse Enduro",
+      "mat": "Gousse enduro",
+      "icon": "mat/Item_PlantGet_S.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "name": "Brochettes de champis",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "4 champis différents",
+  "notes": [],
+  "img": "img/1694868-botw-copious-mushroom-skewers-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 4,
+    "alts": [
+     {
+      "label": "Champis différents",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "name": "Steak de venaison",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 venaison + 1 flacon d'épices goron",
+  "notes": [],
+  "img": "img/1694945-botw-spiced-meat-skewer-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "name": "Steak de venaison fine",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 venaison fine + 1 flacon d'épices goron",
+  "notes": [],
+  "img": "img/1694946-botw-prime-spiced-meat-skewer-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison fine",
+      "mat": "Venaison fine",
+      "icon": "mat/Item_Meat_02.webp",
+      "hp": 6
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "name": "Steak de venaison divine",
+  "effect": "restaure des coeurs rouge",
+  "ingredients": "1 venaison divine + 1 flacon d'épices goron",
+  "notes": [],
+  "img": "img/1694947-botw-gourmet-spiced-meat-skewer-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison divine",
+      "mat": "Venaison divine",
+      "icon": "mat/Item_Meat_11.webp",
+      "hp": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "name": "Crabe sauté",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 crabe au choix + 1 flacon d'épices goron",
+  "notes": [],
+  "img": "img/1694948-botw-crab-stir-fry-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Crabe au choix",
+      "mat": "Crabe lame",
+      "icon": "mat/Item_InsectGet_K.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "name": "Grillade terre-mer",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 poisson au choix + 1 viande au choix",
+  "notes": [],
+  "img": "img/1694949-botw-meat-and-seafood-fry-icon-64x64-3.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande au choix",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "name": "Grillade terre-mer fine",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 poisson au choix + 1 viande fine au choix",
+  "notes": [],
+  "img": "img/1694950-botw-prime-meat-and-seafood-fry-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande fine au choix",
+      "mat": "Venaison fine",
+      "icon": "mat/Item_Meat_02.webp",
+      "hp": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "name": "Grillade terre-mer divine",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 poisson au choix + 1 viande divine au choix",
+  "notes": [],
+  "img": "img/1694951-botw-gourmet-meat-and-seafood-fry-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande divine au choix",
+      "mat": "Venaison divine",
+      "icon": "mat/Item_Meat_11.webp",
+      "hp": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "name": "Légumes salés",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 champi au choix + 1 herbe au choix + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694952-salt-grilled-20greens-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Herbe au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "name": "Champis salées",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 champi au choix + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694877-botw-salt-grilled-mushrooms-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "name": "Viande salée",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 venaison + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694953-botw-salt-grilled-meat-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "name": "Viande fine salée",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 venaison fine + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694955-botw-salt-grilled-prime-meat-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison fine",
+      "mat": "Venaison fine",
+      "icon": "mat/Item_Meat_02.webp",
+      "hp": 6
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "name": "Viande divine salée",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 venaison divine + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694956-botw-salt-grilled-gourmet-meat-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison divine",
+      "mat": "Venaison divine",
+      "icon": "mat/Item_Meat_11.webp",
+      "hp": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "name": "Poisson salé",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 poisson au choix + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694957-botw-salt-grilled-fish-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "name": "Crabe salé",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 crabe au choix + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694958-salt-grilled-20crab-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Crabe au choix",
+      "mat": "Crabe lame",
+      "icon": "mat/Item_InsectGet_K.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "name": "Sauté aux herbes",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 flacon d'épices goron + 1 herbe au choix",
+  "notes": [],
+  "img": "img/1694959-botw-herb-saute-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Herbe au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "name": "Sauté de champis odorant",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 champi au choix + 1 flacon d'épices goron",
+  "notes": [],
+  "img": "img/1694960-botw-fragrant-mushroom-saute-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "name": "Viande épicée pikpik",
+  "effect": "restaure des cœurs rouges + effet anti-froid",
+  "ingredients": "1 piment + 1 viande au choix",
+  "notes": [],
+  "img": "img/1694961-botw-spicy-pepper-steak-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Piment",
+      "mat": "Piment",
+      "icon": "mat/Item_Fruit_I.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande au choix",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "name": "Poisson grillé relevé pikpik",
+  "effect": "restaure des cœurs rouges + effet anti-froid",
+  "ingredients": "1 poisson au choix + 1 piment",
+  "notes": [],
+  "img": "img/1694962-botw-pepper-seafood-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Piment",
+      "mat": "Piment",
+      "icon": "mat/Item_Fruit_I.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "name": "Ragoût de la mer",
+  "effect": "restaure des cœurs + une jauge d'endurance jaune",
+  "ingredients": "1 poisson au choix + 1 huile + 1 gousse enduro",
+  "notes": [],
+  "img": "img/1694963-fragrant-20seafood-20stew-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Huile",
+      "mat": "Bouteille d'huile",
+      "icon": "mat/Item_Material_09.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Gousse enduro",
+      "mat": "Gousse enduro",
+      "icon": "mat/Item_PlantGet_S.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "name": "Pilons de volaille frits",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 volaille + 1 huile",
+  "notes": [],
+  "img": "img/1694964-deep-fried-20drumstick-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille",
+      "mat": "Viande de volaille",
+      "icon": "mat/Item_Meat_06.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Huile",
+      "mat": "Bouteille d'huile",
+      "icon": "mat/Item_Material_09.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "name": "Cuisses de poulet frites",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 volaille fine + 1 huile",
+  "notes": [],
+  "img": "img/1694965-deep-fried-20thigh-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille fine",
+      "mat": "Viande de volaille fine",
+      "icon": "mat/Item_Meat_07.webp",
+      "hp": 6
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Huile",
+      "mat": "Bouteille d'huile",
+      "icon": "mat/Item_Material_09.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "name": "Volaille frite",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 volaille divine + 1 huile",
+  "notes": [],
+  "img": "img/1694966-deep-fried-20bird-20roast-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille divine",
+      "mat": "Volaille divine",
+      "icon": "mat/Item_Meat_12.webp",
+      "hp": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Huile",
+      "mat": "Bouteille d'huile",
+      "icon": "mat/Item_Material_09.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "name": "Poisson meunière",
+  "effect": "restaure des coeurs + effet selon ingrédient",
+  "ingredients": "1 poisson (sauf dorade) + 1 blé + 1 motte de beurre",
+  "notes": [],
+  "img": "img/1694967-botw-seafood-meuniere-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson (sauf dorade)",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "name": "Daurade meunière",
+  "effect": "restaure des coeurs + effet selon ingrédient",
+  "ingredients": "1 daurade + 1 blé + 1 motte de beurre",
+  "notes": [],
+  "img": "img/1694968-botw-porgy-meuniere-icon-64x64-3.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Daurade",
+      "mat": "Daurade lame",
+      "icon": "mat/Item_FishGet_F.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "name": "Saumon meunière",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 Saumon Max + 1 motte de beurre + 1 blé + 1 lait",
+  "notes": [],
+  "img": "img/1694969-salmon-20meunire-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Saumon Max",
+      "mat": "Saumon max",
+      "icon": "mat/Item_FishGet_I.webp",
+      "hp": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "name": "Assiette fruits et champis",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 pomme + 1 champi",
+  "notes": [],
+  "img": "img/1694970-botw-fruit-and-mushroom-mix-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Pomme",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "name": "Chutney de fruits",
+  "effect": "restaure 2 cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "x2 fruits différents + 1 champi",
+  "notes": [],
+  "img": "img/1694971-chutney-64x64-1.png",
+  "items": [
+   {
+    "n": 2,
+    "alts": [
+     {
+      "label": "Fruits différents",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 6
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "name": "Grand Chutney de fruits",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "x4 fruits différents",
+  "notes": [],
+  "img": "img/1694972-botw-copious-simmered-fruit-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 4,
+    "alts": [
+     {
+      "label": "Fruits différents",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "name": "Ragoût de tomates",
+  "effect": "restaure 2 cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 grappe de tomates d'Hyrule",
+  "notes": [],
+  "img": "img/1694973-simmered-20tomato-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Grappe de tomates d'Hyrule",
+      "mat": "Grappe de tomates d'Hyrule",
+      "icon": "mat/Item_Fruit_M.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "name": "Soupe à la tomate",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 grappe de tomates d'Hyrule + 1 cristal de sel + 1 lait",
+  "notes": [],
+  "img": "img/1694974-fruity-20tomato-20stew-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Grappe de tomates d'Hyrule",
+      "mat": "Grappe de tomates d'Hyrule",
+      "icon": "mat/Item_Fruit_M.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "name": "Ragoût tomate-champi",
+  "effect": "restaure des cœurs + effet selon l'ingrédient",
+  "ingredients": "1 grappe de tomates d'Hyrule + 1 champi au choix",
+  "notes": [],
+  "img": "img/1694975-tomato-20mushroom-20stew-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Grappe de tomates d'Hyrule",
+      "mat": "Grappe de tomates d'Hyrule",
+      "icon": "mat/Item_Fruit_M.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "name": "Bouillabaisse",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 grappe de tomates d'Hyrule + 1 poisson au choix",
+  "notes": [],
+  "img": "img/1694976-tomato-20seafood-20soup-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Grappe de tomates d'Hyrule",
+      "mat": "Grappe de tomates d'Hyrule",
+      "icon": "mat/Item_Fruit_M.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "name": "Bouillon de légumes",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 légume au choix (sauf citrouille et carotte) + 1 herbe/fleur au choix + 1 lait + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694941-botw-cream-of-vegetable-soup-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume au choix (sauf citrouille et carotte)",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Herbe/fleur au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "name": "Velouté de légumes",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 lait + 1 légume au choix + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694942-botw-veggie-cream-soup-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume au choix",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "name": "Velouté de champis",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 champi au choix + 1 cristal de sel + 1 lait + 1 légume au choix + 1 herbe au choix",
+  "notes": [],
+  "img": "img/1694943-botw-cream-of-mushroom-soup-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume au choix",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Herbe au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "name": "Velouté de viande",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 viande au choix + 1 cristal de sel + 1 lait + 1 légume au choix + 1 herbe au choix",
+  "notes": [],
+  "img": "img/1694977-botw-creamy-meat-soup-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande au choix",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume au choix",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Herbe au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "name": "Velouté de poissons",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 poisson au choix + 1 cristal de sel + 1 lait + 1 légume au choix + 1 herbe au choix",
+  "notes": [],
+  "img": "img/1694979-botw-creamy-seafood-soup-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume au choix",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Herbe au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "name": "Soupe de coquillages",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 blé + 1 lait + 1 motte de beurre + 1 escargot silencio",
+  "notes": [],
+  "img": "img/1694978-snail-20chowder-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Escargot silencio",
+      "mat": "Escargot silencio",
+      "icon": "mat/Item_FishGet_M.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "name": "Velouté de cœur",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 radis max (ou gros radis max) + 1 lait + 1 Fruit volt + 1 melon glagla",
+  "notes": [],
+  "img": "img/1694944-botw-creamy-heart-soup-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Radis max (ou gros radis max)",
+      "mat": "Radis max",
+      "icon": "mat/Item_PlantGet_B.webp",
+      "hp": 10
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fruit volt",
+      "mat": "Fruit volt",
+      "icon": "mat/Item_Fruit_C.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Melon glagla",
+      "mat": "Melon glagla",
+      "icon": "mat/Item_Fruit_F.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "name": "Légumes marinés enduro",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 légume au choix + 1 herbe au choix + 1 miel enduro",
+  "notes": [],
+  "img": "img/1694980-botw-glazed-veggies-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume au choix",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Herbe au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Miel enduro",
+      "mat": "Rayon de miel enduro",
+      "icon": "mat/BeeHome.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "name": "Champis marinés enduro",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 champi au choix + 1 miel",
+  "notes": [],
+  "img": "img/1694981-botw-glazed-mushrooms-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Miel",
+      "mat": "Rayon de miel enduro",
+      "icon": "mat/BeeHome.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "name": "Viande marinée enduro",
+  "effect": "restaure des cœurs + la moitié d'une jauge d'endurance",
+  "ingredients": "1 viande au choix + 1 miel enduro",
+  "notes": [],
+  "img": "img/1694982-botw-energizing-glazed-meat-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande au choix",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Miel enduro",
+      "mat": "Rayon de miel enduro",
+      "icon": "mat/BeeHome.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "name": "Poisson mariné enduro",
+  "effect": "restaure des cœurs rouges + la moitié d'une jauge d'endurance",
+  "ingredients": "1 poisson au choix + 1 miel enduro",
+  "notes": [],
+  "img": "img/1694983-botw-glazed-seafood-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Miel enduro",
+      "mat": "Rayon de miel enduro",
+      "icon": "mat/BeeHome.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "name": "Curry",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 flacon d'épices goron",
+  "notes": [],
+  "img": "img/1694984-botw-curry-rice-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "name": "Curry végétarien",
+  "effect": "restaure des cœurs",
+  "ingredients": "1 riz + 1 flacon d'épices goron + 1 légume (carotte ou citrouille)",
+  "notes": [],
+  "img": "img/1695003-botw-vegetable-curry-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume (carotte",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "hp": 2
+     },
+     {
+      "label": "Citrouille)",
+      "mat": "Citrouille armo",
+      "icon": "mat/Item_Fruit_J.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "name": "Curry de venaison",
+  "effect": "restaure des cœurs",
+  "ingredients": "1 riz + 1 flacon d'épices goron + 1 venaison",
+  "notes": [],
+  "img": "img/1695004-botw-meat-curry-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "name": "Curry de venaison fine",
+  "effect": "restaure des cœurs",
+  "ingredients": "1 riz + 1 flacon d'épices goron + 1 venaison fine",
+  "notes": [],
+  "img": "img/1695005-botw-prime-meat-curry-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison fine",
+      "mat": "Venaison fine",
+      "icon": "mat/Item_Meat_02.webp",
+      "hp": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "name": "Curry de venaison divine",
+  "effect": "restaure des cœurs",
+  "ingredients": "1 riz + 1 flacon d'épices goron + 1 venaison divine",
+  "notes": [],
+  "img": "img/1695006-botw-gourmet-meat-curry-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison divine",
+      "mat": "Venaison divine",
+      "icon": "mat/Item_Meat_11.webp",
+      "hp": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "name": "Curry de volaille",
+  "effect": "restaure des cœurs",
+  "ingredients": "1 riz + 1 flacon d'épices goron + 1 volaille",
+  "notes": [],
+  "img": "img/1695007-botw-poultry-curry-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille",
+      "mat": "Viande de volaille",
+      "icon": "mat/Item_Meat_06.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "name": "Curry de volaille fine",
+  "effect": "restaure des cœurs",
+  "ingredients": "1 riz + 1 flacon d'épices goron + 1 volaille fine",
+  "notes": [],
+  "img": "img/1695008-botw-prime-poultry-curry-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille fine",
+      "mat": "Viande de volaille fine",
+      "icon": "mat/Item_Meat_07.webp",
+      "hp": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 71,
+  "name": "Curry de volaille divine",
+  "effect": "restaure des cœurs",
+  "ingredients": "1 riz + 1 flacon d'épices goron + 1 volaille divine",
+  "notes": [],
+  "img": "img/1695009-botw-gourmet-poultry-curry-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille divine",
+      "mat": "Volaille divine",
+      "icon": "mat/Item_Meat_12.webp",
+      "hp": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 72,
+  "name": "Curry de fruits de mer",
+  "effect": "restaure des cœurs",
+  "ingredients": "1 riz + 1 flacon d'épices goron + 1 daurade",
+  "notes": [],
+  "img": "img/1695010-botw-seafood-curry-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Daurade",
+      "mat": "Daurade lame",
+      "icon": "mat/Item_FishGet_F.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 73,
+  "name": "Curry au fromage",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 Fromage d'Élimith + 1 boisseau de riz + 1 Flacon d'épices Goron",
+  "notes": [],
+  "img": "img/1695011-cheesy-20curry-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fromage d'Élimith",
+      "mat": "Fromage d'Elimith",
+      "icon": "mat/Item_Material_10.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices Goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 74,
+  "name": "Ragoût de carotte enduro",
+  "effect": "restaure des cœurs + la moitié d'une jauge d'endurance",
+  "ingredients": "1 blé + 1 motte de beurre + 1 lait + 1 carotte Enduro (ou Tempo pour effet vitesse)",
+  "notes": [],
+  "img": "img/1695012-botw-carrot-stew-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Carotte Enduro (ou Tempo pour effet vitesse)",
+      "mat": "Carotte vigueur",
+      "icon": "mat/Item_PlantGet_Q.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 75,
+  "name": "Ragoût de citrouille",
+  "effect": "restaure des cœurs + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 motte de beurre + 1 lait + 1 citrouille",
+  "notes": [],
+  "img": "img/1695013-botw-pumpkin-stew-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Citrouille",
+      "mat": "Citrouille armo",
+      "icon": "mat/Item_Fruit_J.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 76,
+  "name": "Ragoût de viande",
+  "effect": "restaure des cœurs + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 motte de beurre + 1 lait + 1 viande au choix",
+  "notes": [],
+  "img": "img/1695014-botw-meat-stew-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande au choix",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 77,
+  "name": "Ragoût de viande fine",
+  "effect": "restaure des cœurs + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 motte de beurre + 1 lait + 1 viande fine au choix",
+  "notes": [],
+  "img": "img/1695015-botw-prime-meat-stew-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande fine au choix",
+      "mat": "Venaison fine",
+      "icon": "mat/Item_Meat_02.webp",
+      "hp": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 78,
+  "name": "Ragoût de viande divine",
+  "effect": "restaure des cœurs + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 motte de beurre + 1 lait + 1 viande divine au choix",
+  "notes": [],
+  "img": "img/1695016-botw-gourmet-meat-stew-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande divine au choix",
+      "mat": "Venaison divine",
+      "icon": "mat/Item_Meat_11.webp",
+      "hp": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "name": "Citrouille farcie protecto",
+  "effect": "restaure 3 cœurs rouges + renforce la Défense pendant 1min20.",
+  "ingredients": "1 venaison + 1 citrouille protecto",
+  "notes": [],
+  "img": "img/1695017-botw-tough-meat-stuffed-pumpkin-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Citrouille protecto",
+      "mat": "Citrouille armo",
+      "icon": "mat/Item_Fruit_J.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 80,
+  "name": "Risotto aux légumes tempo",
+  "effect": "restaure des cœurs rouges + augmente la vitesse de déplacement",
+  "ingredients": "1 riz + 1 carotte tempo + 1 motte de beurre + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1695034-vegetable-20risotto-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Carotte tempo",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 81,
+  "name": "Risotto aux champis",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 riz + 1 cristal de sel + 1 motte de beurre + 1 champi au choix",
+  "notes": [],
+  "img": "img/1695035-botw-mushroom-risotto-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 82,
+  "name": "Risotto au saumon",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 riz + 1 cristal de sel + 1 motte de beurre + 1 Saumon Max",
+  "notes": [],
+  "img": "img/1695036-salmon-20risotto-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Saumon Max",
+      "mat": "Saumon max",
+      "icon": "mat/Item_FishGet_I.webp",
+      "hp": 16
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 83,
+  "name": "Risotto au crabe",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 crabe au choix + 1 cristal de sel + 1 motte de beurre",
+  "notes": [],
+  "img": "img/1694876-botw-crab-risotto-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Crabe au choix",
+      "mat": "Crabe lame",
+      "icon": "mat/Item_InsectGet_K.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 84,
+  "name": "Risotto crémeux",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 poisson au choix + 1 cristal de sel + 1 Fromage d'Elimith",
+  "notes": [],
+  "img": "img/1694829-botw-seafood-fried-rice-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fromage d'Elimith",
+      "mat": "Fromage d'Elimith",
+      "icon": "mat/Item_Material_10.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 85,
+  "name": "Pilaf de volaille",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 volaille + 1 oeuf de volatile + 1 motte de beurre",
+  "notes": [],
+  "img": "img/1694832-botw-poultry-pilaf-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille",
+      "mat": "Viande de volaille",
+      "icon": "mat/Item_Meat_06.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf de volatile",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 86,
+  "name": "Pilaf de volaille fine",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 volaille fine + 1 oeuf de volatile + 1 motte de beurre",
+  "notes": [],
+  "img": "img/1694833-botw-prime-poultry-pilaf-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille fine",
+      "mat": "Viande de volaille fine",
+      "icon": "mat/Item_Meat_07.webp",
+      "hp": 6
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf de volatile",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 87,
+  "name": "Pilaf de volaille divine",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 volaille entière + 1 oeuf de volatile + 1 motte de beurre",
+  "notes": [],
+  "img": "img/1694830-botw-gourmet-poultry-pilaf-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille entière",
+      "mat": "Viande de volaille",
+      "icon": "mat/Item_Meat_06.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf de volatile",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 88,
+  "name": "Paella de la mer",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 daurade + 1 crabe au choix + 1 boisseau de riz + 1 motte de beurre + 1 cristal de sel",
+  "notes": [
+   "Vous pouvez en obtenir une au Village d'Écaraille, après avoir restauré les constructions"
+  ],
+  "img": "img/1696113-botw-seafood-paella-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Daurade",
+      "mat": "Daurade lame",
+      "icon": "mat/Item_FishGet_F.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Crabe au choix",
+      "mat": "Crabe lame",
+      "icon": "mat/Item_InsectGet_K.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 89,
+  "name": "Riz au curry",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 flacon d'épices goron + 1 motte de beurre",
+  "notes": [],
+  "img": "img/1694818-botw-curry-pilaf-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 90,
+  "name": "Oeuf au plat au riz",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 oeuf de volatile",
+  "notes": [],
+  "img": "img/1694826-botw-fried-egg-and-rice-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf de volatile",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 91,
+  "name": "Riz frit",
+  "effect": "restaure 5+ cœurs rouges",
+  "ingredients": "1 bouteille d'huile + 1 boisseau de riz + 1 venaison + 1 œuf de volatile",
+  "notes": [],
+  "img": "img/1694756-crunchy-20fried-20rice-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Bouteille d'huile",
+      "mat": "Bouteille d'huile",
+      "icon": "mat/Item_Material_09.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Œuf de volatile",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 92,
+  "name": "Riz frit de la mer",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 daurade + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1696658-seafood-20fried-20rice-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Daurade",
+      "mat": "Daurade lame",
+      "icon": "mat/Item_FishGet_F.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 93,
+  "name": "Riz frit oeuf-crabe",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 crabe au choix + 1 oeuf de volatile + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694819-botw-crab-omelet-with-rice-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Crabe au choix",
+      "mat": "Crabe lame",
+      "icon": "mat/Item_InsectGet_K.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf de volatile",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 94,
+  "name": "Riz à la venaison",
+  "effect": "restaure 4 cœurs rouges",
+  "ingredients": "1 venaison + 1 boisseau de riz + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694755-botw-meat-and-rice-bowl-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 95,
+  "name": "Riz à la venaison fine",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 venaison fine + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694827-botw-prime-meat-and-rice-bowl-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison fine",
+      "mat": "Venaison fine",
+      "icon": "mat/Item_Meat_02.webp",
+      "hp": 6
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 96,
+  "name": "Riz à la venaison divine",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 viande divine + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694828-botw-gourmet-meat-and-rice-bowl-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande divine",
+      "mat": "Venaison divine",
+      "icon": "mat/Item_Meat_11.webp",
+      "hp": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 97,
+  "name": "Riz à la venaison gratiné",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 riz + 1 venaison + 1 Fromage d'Élimith + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1696663-cheesy-20meat-20bowl-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fromage d'Élimith",
+      "mat": "Fromage d'Elimith",
+      "icon": "mat/Item_Material_10.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 98,
+  "name": "Riz à la venaison fine gratiné",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 riz + 1 venaison fine + 1 Fromage d'Élimith + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1696664-prime-20cheesy-20meat-20bowl-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison fine",
+      "mat": "Venaison fine",
+      "icon": "mat/Item_Meat_02.webp",
+      "hp": 6
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fromage d'Élimith",
+      "mat": "Fromage d'Elimith",
+      "icon": "mat/Item_Material_10.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 99,
+  "name": "Riz à la venaison divine gratiné",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 riz + 1 venaison divine + 1 Fromage d'Élimith + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1696665-gourmet-20cheesy-20meat-20bowl-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison divine",
+      "mat": "Venaison divine",
+      "icon": "mat/Item_Meat_11.webp",
+      "hp": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fromage d'Élimith",
+      "mat": "Fromage d'Elimith",
+      "icon": "mat/Item_Material_10.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 100,
+  "name": "Boulettes aux herbes",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 herbe au choix",
+  "notes": [],
+  "img": "img/1694822-botw-veggie-rice-balls-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Herbe au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 101,
+  "name": "Boulettes aux champis",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 champi au choix",
+  "notes": [],
+  "img": "img/1694824-botw-mushroom-rice-balls-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 102,
+  "name": "Boulettes à la viande",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 viande au choix",
+  "notes": [],
+  "img": "img/1694825-botw-meaty-rice-balls-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande au choix",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 103,
+  "name": "Boulettes au poisson",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 boisseau de riz + 1 poisson au choix",
+  "notes": [],
+  "img": "img/1694815-botw-seafood-rice-balls-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "name": "Gruau aux légumes",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient. Utile pour la quête au Village Cocorico.",
+  "ingredients": "1 boisseau de riz + 1 lait + 1 herbe au choix",
+  "notes": [],
+  "img": "img/1695037-veggie-20porridge-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Herbe au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 105,
+  "name": "Pain au froment",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1695038-botw-wheat-bread-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 106,
+  "name": "Tartine gratinée",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 Fromage d'Élimith",
+  "notes": [],
+  "img": "img/1695039-melty-20cheesy-20bread-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fromage d'Élimith",
+      "mat": "Fromage d'Elimith",
+      "icon": "mat/Item_Material_10.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 107,
+  "name": "Pizza à la tomate",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 grappe de tomates d'Hyrule + 1 blé + 1 fromage d'Elimith",
+  "notes": [],
+  "img": "img/1695040-hylian-20tomato-20pizza1-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Grappe de tomates d'Hyrule",
+      "mat": "Grappe de tomates d'Hyrule",
+      "icon": "mat/Item_Fruit_M.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fromage d'Elimith",
+      "mat": "Fromage d'Elimith",
+      "icon": "mat/Item_Material_10.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 108,
+  "name": "Tourte à la viande",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 motte de beurre + 1 cristal de sel + 1 viande au choix",
+  "notes": [],
+  "img": "img/1695041-botw-meat-pie-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande au choix",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 109,
+  "name": "Tourte au poisson",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 motte de beurre + 1 cristal de sel + 1 poisson au choix",
+  "notes": [],
+  "img": "img/1695042-botw-fish-pie-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 110,
+  "name": "Tomates au fromage",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 fromage d'Elimith + 1 grappe de tomates d'Hyrule",
+  "notes": [],
+  "img": "img/1695043-cheesy-20tomato-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fromage d'Elimith",
+      "mat": "Fromage d'Elimith",
+      "icon": "mat/Item_Material_10.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Grappe de tomates d'Hyrule",
+      "mat": "Grappe de tomates d'Hyrule",
+      "icon": "mat/Item_Fruit_M.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 111,
+  "name": "Gratin de la mer",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 poisson au choix + 1 Fromage d'Elimith",
+  "notes": [],
+  "img": "img/1695044-cheesy-20baked-20fish-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fromage d'Elimith",
+      "mat": "Fromage d'Elimith",
+      "icon": "mat/Item_Material_10.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 112,
+  "name": "Omelette nature",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 oeuf de volatile",
+  "notes": [],
+  "img": "img/1695045-botw-omelet-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf de volatile",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 113,
+  "name": "Omelette aux herbes",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 légume ou herbe au choix + 1 oeuf + 1 motte de beurre + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1695046-botw-vegetable-omelet-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Légume",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "generic": true,
+      "hp": 2
+     },
+     {
+      "label": "Herbe au choix",
+      "mat": "Herbes d'Hyrule",
+      "icon": "mat/Item_PlantGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 114,
+  "name": "Omelette aux champis",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 champi au choix + 1 oeuf + 1 motte de beurre + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1695047-botw-mushroom-omelet-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 115,
+  "name": "Omelette au fromage",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 champi au choix + 1 oeuf + 1 Fromage d'Elimith + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1695048-cheesy-20omelette-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi au choix",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 12
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fromage d'Elimith",
+      "mat": "Fromage d'Elimith",
+      "icon": "mat/Item_Material_10.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 116,
+  "name": "Pommes au four",
+  "effect": "restaure 2 cœurs rouges",
+  "ingredients": "1 pomme + 1 motte de beurre",
+  "notes": [],
+  "img": "img/1695049-four-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Pomme",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 117,
+  "name": "Fruits au miel",
+  "effect": "restaure des coeurs + effet selon ingrédient",
+  "ingredients": "4 fruits différents (sauf pomme) + 1 miel enduro",
+  "notes": [],
+  "img": "img/1695050-botw-honeyed-fruits-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 4,
+    "alts": [
+     {
+      "label": "Fruits différents (sauf pomme)",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 6
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Miel enduro",
+      "mat": "Rayon de miel enduro",
+      "icon": "mat/BeeHome.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 118,
+  "name": "Pommes au miel",
+  "effect": "restaure 5 cœurs rouges + la moitié d'une jauge d'endurance",
+  "ingredients": "1 pomme + 1 rayon de miel enduro",
+  "notes": [],
+  "img": "img/1695051-1694741-botw-energizing-honeyed-apple-icon-64x64-1-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Pomme",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Rayon de miel enduro",
+      "mat": "Rayon de miel enduro",
+      "icon": "mat/BeeHome.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 119,
+  "name": "Bonbon au miel",
+  "effect": "restaure des cœurs + la moitié d'une jauge d'endurance",
+  "ingredients": "1 miel enduro",
+  "notes": [],
+  "img": "img/1695052-botw-energizing-honey-candy-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Miel enduro",
+      "mat": "Rayon de miel enduro",
+      "icon": "mat/BeeHome.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 120,
+  "name": "Bananes frites robusto",
+  "effect": "restaure des cœurs rouges + boost d'attaque",
+  "ingredients": "1 banane + 1 blé + 1 canne à sucre",
+  "notes": [],
+  "img": "img/1695053-botw-fried-bananas-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Banane",
+      "mat": "Bananes lame",
+      "icon": "mat/Item_Fruit_H.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 121,
+  "name": "Flan",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 lait + 1 oeuf de volatile + 1 canne à sucre",
+  "notes": [],
+  "img": "img/1694887-botw-egg-pudding-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf de volatile",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 122,
+  "name": "Crêpe",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 motte de beurre + 1 lait + 1 oeuf + 1 canne à sucre",
+  "notes": [],
+  "img": "img/1695054-botw-plain-crepe-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 123,
+  "name": "Crêpe aux baies",
+  "effect": "restaure des cœurs + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 lait + 1 oeuf + 1 canne à sucre + 1 baie",
+  "notes": [],
+  "img": "img/1695055-botw-wildberry-crepe-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Baie",
+      "mat": "Baie",
+      "icon": "mat/Item_Fruit_B.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 124,
+  "name": "Crêpe au miel enduro",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 oeuf + 1 miel enduro + 1 lait + 1 blé + 1 canne à sucre",
+  "notes": [],
+  "img": "img/1695056-botw-honey-crepe-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Miel enduro",
+      "mat": "Rayon de miel enduro",
+      "icon": "mat/BeeHome.webp",
+      "hp": 8
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 125,
+  "name": "Gâteau aux graines",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 motte de beurre + 1 canne à sucre + 1 gland + 1 fruit d'oiseau",
+  "notes": [],
+  "img": "img/1695057-botw-nutcake-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Gland",
+      "mat": "Gland",
+      "icon": "mat/Item_Fruit_K.webp",
+      "hp": 1
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fruit d'oiseau",
+      "mat": "Fruit d'oiseau",
+      "icon": "mat/Item_Fruit_L.webp",
+      "hp": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 126,
+  "name": "Gâteau aux fruits",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 canne à sucre + 3 fruits différents",
+  "notes": [],
+  "img": "img/1695058-botw-fruitcake-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "alts": [
+     {
+      "label": "Fruits différents",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 127,
+  "name": "Gâteau à la carotte enduro",
+  "effect": "restaure des cœurs + la moitié d'une jauge d'endurance",
+  "ingredients": "1 blé + 1 motte de beurre + 1 canne à sucre + 1 carotte Enduro (ou Tempo pour effet vitesse)",
+  "notes": [],
+  "img": "img/1695059-botw-carrot-cake-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Carotte Enduro (ou Tempo pour effet vitesse)",
+      "mat": "Carotte vigueur",
+      "icon": "mat/Item_PlantGet_Q.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 128,
+  "name": "Gâteau à la citrouille",
+  "effect": "restaure des cœurs + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 motte de beurre + 1 canne à sucre + 1 citrouille",
+  "notes": [],
+  "img": "img/1695060-botw-pumpkin-pie-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Citrouille",
+      "mat": "Citrouille armo",
+      "icon": "mat/Item_Fruit_J.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 129,
+  "name": "Cheesecake",
+  "effect": "restaure des coeurs",
+  "ingredients": "1 fromage d'Elimith + 1 blé + 1 canne à sucre",
+  "notes": [],
+  "img": "img/1695061-cheesecake-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fromage d'Elimith",
+      "mat": "Fromage d'Elimith",
+      "icon": "mat/Item_Material_10.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 130,
+  "name": "Tarte aux fruits",
+  "effect": "restaure des cœurs rouges + effet selon l'ingrédient",
+  "ingredients": "1 blé + 1 motte de beurre + 1 canne à sucre + 1 fruit au choix",
+  "notes": [],
+  "img": "img/1695062-botw-fruit-pie-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fruit au choix",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "generic": true,
+      "hp": 2,
+      "hpMin": 1,
+      "hpMax": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 131,
+  "name": "Tarte aux pommes",
+  "effect": "restaure 5+ cœurs rouges",
+  "ingredients": "1 pomme + 1 motte de beurre + 1 blé + 1 canne à sucre",
+  "notes": [],
+  "img": "img/1694863-botw-apple-pie-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Pomme",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 132,
+  "name": "Tarte aux oeufs",
+  "effect": "restaure 4 cœurs rouges",
+  "ingredients": "1 oeuf de volatile + 1 motte de beurre + 1 blé + 1 canne à sucre",
+  "notes": [],
+  "img": "img/1694888-botw-egg-tart-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf de volatile",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 133,
+  "name": "Lait chaud",
+  "effect": "restaure des cœurs rouges",
+  "ingredients": "1 lait frais",
+  "notes": [],
+  "img": "img/1694809-botw-warm-milk-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait frais",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 134,
+  "name": "Vaï Meets Voï",
+  "effect": "restaure des cœurs rouges",
+  "ingredients": "1 melon + 1 fruit volt + 1 noix de coco + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1695063-noble-20pursuit-64x64-3.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Melon",
+      "mat": "Melon glagla",
+      "icon": "mat/Item_Fruit_F.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fruit volt",
+      "mat": "Fruit volt",
+      "icon": "mat/Item_Fruit_C.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Noix de coco",
+      "mat": "Noix de coco",
+      "icon": "mat/Item_Fruit_G.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 135,
+  "name": "Ragoût de monstre",
+  "effect": "restaure 5+ coeurs + effet selon l'ingrédient rajouté",
+  "ingredients": "2 viandes au choix + 1 extrait de monstre",
+  "notes": [],
+  "img": "img/1694813-botw-monster-stew-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 2,
+    "alts": [
+     {
+      "label": "Viandes au choix",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Extrait de monstre",
+      "mat": "Extrait de monstre",
+      "icon": "mat/Item_Material_08.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 136,
+  "name": "Soupe de monstre",
+  "effect": "restaure des coeurs rouges + effet selon l'ingrédient rajouté",
+  "ingredients": "1 motte de beurre + 1 lait + 1 blé + 1 extrait de monstre",
+  "notes": [],
+  "img": "img/1694810-botw-monster-soup-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Extrait de monstre",
+      "mat": "Extrait de monstre",
+      "icon": "mat/Item_Material_08.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 137,
+  "name": "Curry au monstre",
+  "effect": "restaure des coeurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 extrait de monstre + 1 boisseau de riz + 1 flacon d'épices Goron",
+  "notes": [],
+  "img": "img/1694915-botw-monster-curry-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Extrait de monstre",
+      "mat": "Extrait de monstre",
+      "icon": "mat/Item_Material_08.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices Goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 138,
+  "name": "Boulettes au monstre",
+  "effect": "restaure des cœurs + effet selon l'ingrédient rajouté",
+  "ingredients": "1 extrait de monstre + 1 boisseau de riz + 1 cristal de sel",
+  "notes": [],
+  "img": "img/1694916-botw-monster-rice-balls-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Extrait de monstre",
+      "mat": "Extrait de monstre",
+      "icon": "mat/Item_Material_08.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 139,
+  "name": "Gâteau au monstre",
+  "effect": "restaure 1/4 de coeur + effet selon l'ingrédient rajouté",
+  "ingredients": "1 canne à sucre + 1 blé + 1 motte de beurre + 1 extrait de monstre",
+  "notes": [],
+  "img": "img/1694811-botw-monster-cake-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Extrait de monstre",
+      "mat": "Extrait de monstre",
+      "icon": "mat/Item_Material_08.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 140,
+  "name": "Ragoût de génie",
+  "effect": "restaure des coeurs et donne l'effet anti-miasme",
+  "ingredients": "1 viande au choix + 1 poisson au choix + 1 amas de ténèbres",
+  "notes": [],
+  "img": "img/1695064-dark-20stew-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Viande au choix",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Poisson au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4,
+      "hpMin": 4,
+      "hpMax": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Amas de ténèbres",
+      "mat": "Amas de ténèbres",
+      "icon": "mat/Item_Material_11.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 141,
+  "name": "Soupe de génie",
+  "effect": "restaure des coeurs et donne l'effet anti-miasme",
+  "ingredients": "1 motte de beurre + 1 blé + 1 lait + 1 amas de ténèbres",
+  "notes": [],
+  "img": "img/1695065-dark-20soup-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lait",
+      "mat": "Bouteille de lait frais",
+      "icon": "mat/Item_Material_05.webp",
+      "hp": 2
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Amas de ténèbres",
+      "mat": "Amas de ténèbres",
+      "icon": "mat/Item_Material_11.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 142,
+  "name": "Curry de génie",
+  "effect": "restaure des coeurs et donne l'effet anti-miasme",
+  "ingredients": "1 venaison + 1 riz + 1 flacon d'épices goron + 1 amas de ténèbres",
+  "notes": [],
+  "img": "img/1695066-dark-20curry-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Flacon d'épices goron",
+      "mat": "Flacon d'épices gorons",
+      "icon": "mat/Item_Material_02.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Amas de ténèbres",
+      "mat": "Amas de ténèbres",
+      "icon": "mat/Item_Material_11.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 143,
+  "name": "Boulettes de génie salvatis",
+  "effect": "restaure des coeurs et donne l'effet anti-miasme pendant 5 minutes",
+  "ingredients": "1 boisseau de riz + 1 cristal de sel + 1 venaison + 1 amas de ténèbres",
+  "notes": [],
+  "img": "img/1695067-dark-20rice-20ball-64x64-3.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Boisseau de riz",
+      "mat": "Boisseau de riz",
+      "icon": "mat/Item_Material_03.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Cristal de sel",
+      "mat": "Cristal de sel",
+      "icon": "mat/Item_Ore_H.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Amas de ténèbres",
+      "mat": "Amas de ténèbres",
+      "icon": "mat/Item_Material_11.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 144,
+  "name": "Gâteau de génie",
+  "effect": "restaure des coeurs et donne l'effet anti-miasme",
+  "ingredients": "1 motte de beurre + 1 blé + 1 canne à sucre + 1 amas de ténèbres",
+  "notes": [],
+  "img": "img/1695068-dark-20cake-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Motte de beurre",
+      "mat": "Motte de beurre",
+      "icon": "mat/Item_Material_06.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Blé",
+      "mat": "Boisseau de blé",
+      "icon": "mat/Item_Material_07.webp",
+      "hp": 4
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Canne à sucre",
+      "mat": "Canne à sucre",
+      "icon": "mat/Item_Material_01.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Amas de ténèbres",
+      "mat": "Amas de ténèbres",
+      "icon": "mat/Item_Material_11.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 145,
+  "name": "Plat douteux",
+  "effect": "rend 1 coeur",
+  "ingredients": "",
+  "notes": [
+   "Obtention : en cuisinant un petit animal (grenouille par exemple) sans rien d'autre."
+  ],
+  "img": "img/1694908-dubious-20food-64x64-1.png",
+  "items": []
+ },
+ {
+  "id": 146,
+  "name": "Plat brise dent",
+  "effect": "rend 1/4 de coeur",
+  "ingredients": "",
+  "notes": [
+   "Obtention : en combinant des ingrédients qui ne vont pas ensemble ou simplement en mettant un morceau de bois par exemple"
+  ],
+  "img": "img/1694909-botw-rock-hard-food-icon-64x64-1.png",
+  "items": []
+ },
+ {
+  "id": 147,
+  "name": "Pomme grillée",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Pomme à mettre sur le feu",
+  "notes": [],
+  "img": "img/1694910-zelda-tofk-pomme-grillee-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Pomme",
+      "mat": "Pomme",
+      "icon": "mat/Item_Fruit_A.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 148,
+  "name": "Pomme dorée grillée",
+  "effect": "rend 2 cœurs et 1/4",
+  "ingredients": "x1 Pomme dorée à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695075-botw-baked-apple-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Pomme dorée",
+      "mat": "Pomme d'or",
+      "icon": "mat/Item_Fruit_P.webp",
+      "hp": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 149,
+  "name": "Piment grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Piment à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695076-botw-charred-pepper-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Piment",
+      "mat": "Piment",
+      "icon": "mat/Item_Fruit_I.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 150,
+  "name": "Grappe de tomates grillées",
+  "effect": "rend 1 cœur et demi",
+  "ingredients": "x1 grappe de tomate à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695077-tomate-64x64-1.JPG",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Grappe de tomate",
+      "mat": "Grappe de tomates d'Hyrule",
+      "icon": "mat/Item_Fruit_M.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 151,
+  "name": "Baie grillée",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Baie à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695078-botw-roasted-wildberry-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Baie",
+      "mat": "Baie",
+      "icon": "mat/Item_Fruit_B.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 152,
+  "name": "Fruit volt grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Fruit volt à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695079-botw-roasted-voltfruit-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fruit volt",
+      "mat": "Fruit volt",
+      "icon": "mat/Item_Fruit_C.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 153,
+  "name": "Melon glagla grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 melon glagla à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695080-botw-roasted-hydromelon-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Melon glagla",
+      "mat": "Melon glagla",
+      "icon": "mat/Item_Fruit_F.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 154,
+  "name": "Noix de coco grillée",
+  "effect": "rend 1 coeur et demi",
+  "ingredients": "x1 noix de coco à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695081-botw-baked-palm-fruit-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Noix de coco",
+      "mat": "Noix de coco",
+      "icon": "mat/Item_Fruit_G.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 155,
+  "name": "Bananes lames grillées",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 banane à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695082-botw-roasted-mighty-bananas-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Banane",
+      "mat": "Bananes lame",
+      "icon": "mat/Item_Fruit_H.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 156,
+  "name": "Fruit du lotus tempo grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Fruits du lotus à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695083-botw-roasted-lotus-seeds-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fruits du lotus",
+      "mat": "Fruit de lotus tempo",
+      "icon": "mat/Item_Fruit_E.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 157,
+  "name": "Fleur lame grillée",
+  "effect": "rend 1/2 d'un cœur rouge",
+  "ingredients": "x1 Fleur lame à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695084-botw-roasted-mighty-thistle-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fleur lame",
+      "mat": "Fleur lame",
+      "icon": "mat/Item_PlantGet_G.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 158,
+  "name": "Fleur armo grillée",
+  "effect": "rend 1/2 d'un cœur rouge",
+  "ingredients": "x1 fleur armo à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695085-botw-roasted-armoranth-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fleur armo",
+      "mat": "Fleur armo",
+      "icon": "mat/Item_PlantGet_H.webp",
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 159,
+  "name": "Carotte tempo grillée",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 carotte tempo à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695086-botw-roasted-swift-carrot-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Carotte tempo",
+      "mat": "Carotte tempo",
+      "icon": "mat/Item_PlantGet_M.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 160,
+  "name": "Carotte enduro grillée",
+  "effect": "rend 1cœur rouge",
+  "ingredients": "x1 carotte enduro à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695087-botw-roasted-endura-carrot-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Carotte enduro",
+      "mat": "Carotte vigueur",
+      "icon": "mat/Item_PlantGet_Q.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 161,
+  "name": "Citrouille armo grillée",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 citrouille armo à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695088-botw-baked-fortified-pumpkin-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Citrouille armo",
+      "mat": "Citrouille armo",
+      "icon": "mat/Item_Fruit_J.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 162,
+  "name": "Citrouille radieuse grillée",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 citrouille d'élimith à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695089-sun-20pumpkin-64x64-3.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Citrouille d'élimith",
+      "mat": "Citrouille armo",
+      "icon": "mat/Item_Fruit_J.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 163,
+  "name": "Radis max grillé",
+  "effect": "rend 1+ cœurs rouges",
+  "ingredients": "x1 radis max à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695090-botw-roasted-radish-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Radis max",
+      "mat": "Radis max",
+      "icon": "mat/Item_PlantGet_B.webp",
+      "hp": 10
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 164,
+  "name": "Gros radis max grillé",
+  "effect": "rend 5+ cœurs rouges",
+  "ingredients": "x1 gros radis max à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695091-botw-roasted-big-radish-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Gros radis max",
+      "mat": "Gros radis max",
+      "icon": "mat/Item_PlantGet_C.webp",
+      "hp": 16
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 165,
+  "name": "Champi céleste grillé",
+  "effect": "rend 1/2 d'un cœur rouge",
+  "ingredients": "x1 Champi céleste à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695092-skyshroom-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi céleste",
+      "mat": "Champi céleste",
+      "icon": "mat/Item_Mushroom_P.webp",
+      "hp": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 166,
+  "name": "Champi d'Hyrule grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Champi d'Hyrule à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695069-zelda-totk-champi-hyrule-grille-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi d'Hyrule",
+      "mat": "Champi d'Hyrule",
+      "icon": "mat/Item_Mushroom_E.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 167,
+  "name": "Champi enduro grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Champi enduro à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695093-botw-toasty-stamella-shroom-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi enduro",
+      "mat": "Champi enduro",
+      "icon": "mat/Item_Mushroom_A.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 168,
+  "name": "Champi tempo grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Champi tempo à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695094-botw-toasty-rushroom-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi tempo",
+      "mat": "Champi tempo",
+      "icon": "mat/Item_MushroomGet_D.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 169,
+  "name": "Champi piment grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Champi Piment à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695095-botw-toasty-sunshroom-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi Piment",
+      "mat": "Champi piment",
+      "icon": "mat/Item_Mushroom_C.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 170,
+  "name": "Champi glagla grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Champi glagla à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695096-botw-toasty-chillshroom-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi glagla",
+      "mat": "Champi glagla",
+      "icon": "mat/Item_Mushroom_B.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 171,
+  "name": "Champi Volt grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Champi Volt à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695097-botw-toasty-zapshroom-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi Volt",
+      "mat": "Champi volt",
+      "icon": "mat/Item_Mushroom_H.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 172,
+  "name": "Champi lame grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Champi lame à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695098-botw-toasty-razorshroom-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi lame",
+      "mat": "Champi lame",
+      "icon": "mat/Item_Mushroom_L.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 173,
+  "name": "Champi armo grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Champi armo à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695099-botw-toasty-ironshroom-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi armo",
+      "mat": "Champi armo",
+      "icon": "mat/Item_Mushroom_M.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 174,
+  "name": "Champi silencio grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Champi silencio à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695100-botw-toasty-silent-shroom-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi silencio",
+      "mat": "Champi silencio",
+      "icon": "mat/Item_Mushroom_J.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 175,
+  "name": "Champi lumos grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Champi lumos à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695101-botw-toasty-rushroom-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi lumos",
+      "mat": "Champi lumos",
+      "icon": "mat/Item_MushroomGet_K.webp",
+      "hp": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 176,
+  "name": "Champi vigueur grillé",
+  "effect": "rend 3/4 d'un cœur rouge",
+  "ingredients": "x1 Champi vigueur à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695102-botw-toasty-sunshroom-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Champi vigueur",
+      "mat": "Champi vigueur",
+      "icon": "mat/Item_Mushroom_O.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 177,
+  "name": "Truffe max grillée",
+  "effect": "rend 3 cœurs rouges",
+  "ingredients": "x1 Truffe Max à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695103-botw-toasted-hearty-truffle-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Truffe Max",
+      "mat": "Truffe max",
+      "icon": "mat/Item_Mushroom_F.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 178,
+  "name": "Grosse Truffe Max grillée",
+  "effect": "rend 4 cœurs rouges et 1/2",
+  "ingredients": "x1 Truffe Max à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695104-botw-toasted-big-hearty-truffle-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Truffe Max",
+      "mat": "Truffe max",
+      "icon": "mat/Item_Mushroom_F.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 179,
+  "name": "Viande grillée",
+  "effect": "rend 2 cœurs et demi",
+  "ingredients": "x1 venaison à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695071-botw-seared-steak-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 180,
+  "name": "Viande fine grillée",
+  "effect": "rend 3 cœurs et demi",
+  "ingredients": "x1 venaison fine à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695072-botw-seared-prime-steak-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison fine",
+      "mat": "Venaison fine",
+      "icon": "mat/Item_Meat_02.webp",
+      "hp": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 181,
+  "name": "Viande divine grillée",
+  "effect": "rend 4 cœurs et demi",
+  "ingredients": "x1 venaison divine à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695106-botw-seared-gourmet-steak-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison divine",
+      "mat": "Venaison divine",
+      "icon": "mat/Item_Meat_11.webp",
+      "hp": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 182,
+  "name": "Volaille grillée",
+  "effect": "rend 1 cœur et demi",
+  "ingredients": "x1 volaille à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695107-botw-roasted-bird-drumstick-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille",
+      "mat": "Viande de volaille",
+      "icon": "mat/Item_Meat_06.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 183,
+  "name": "Volaille fine grillée",
+  "effect": "rend 1 cœur et demi",
+  "ingredients": "x1 volaille fine à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695118-botw-roasted-bird-thigh-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille fine",
+      "mat": "Viande de volaille fine",
+      "icon": "mat/Item_Meat_07.webp",
+      "hp": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 184,
+  "name": "Volaille divine grillée",
+  "effect": "rend 1 cœur et demi",
+  "ingredients": "x1 volaille divine à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695119-botw-roasted-whole-bird-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille divine",
+      "mat": "Volaille divine",
+      "icon": "mat/Item_Meat_12.webp",
+      "hp": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 185,
+  "name": "Arowana grillé",
+  "effect": "rend 1 cœur",
+  "ingredients": "x1 Arowana à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695120-botw-roasted-bass-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Arowana",
+      "mat": "Arowana ancien",
+      "icon": "mat/Item_FishGet_AA.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 186,
+  "name": "Perche grillée",
+  "effect": "rend 1 cœur et demi",
+  "ingredients": "x1 perche au choix à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695121-botw-roasted-hearty-bass-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Perche au choix",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 187,
+  "name": "Truite grillée",
+  "effect": "rend 1 cœur et demi",
+  "ingredients": "x1 truite au choix à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695122-botw-roasted-trout-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Truite au choix",
+      "mat": "Truite glagla",
+      "icon": "mat/Item_FishGet_C.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 188,
+  "name": "Carpe grillée",
+  "effect": "rend 1 cœur et demi",
+  "ingredients": "x1 carpe au choix à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695123-botw-roasted-carp-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Carpe au choix",
+      "mat": "Carpe tricolore",
+      "icon": "mat/Item_FishGet_Z.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 189,
+  "name": "Daurade grillée",
+  "effect": "rend 1 cœur et demi",
+  "ingredients": "x1 daurade au choix à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695124-botw-roasted-hearty-salmon-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Daurade au choix",
+      "mat": "Daurade lame",
+      "icon": "mat/Item_FishGet_F.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 190,
+  "name": "Troglodus grillé",
+  "effect": "rend 1 cœur et demi",
+  "ingredients": "x1 Troglodus Lumos à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695125-botw-roasted-bass-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Troglodus Lumos",
+      "mat": "Troglodus lumos",
+      "icon": "mat/Item_FishGet_AC.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 191,
+  "name": "Perche Max grillée",
+  "effect": "rend 3 cœurs",
+  "ingredients": "x1 perche max à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695126-botw-roasted-hearty-bass-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Perche max",
+      "mat": "Perche max",
+      "icon": "mat/Item_FishGet_B.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 192,
+  "name": "Saumon max grillé",
+  "effect": "rend des coeurs",
+  "ingredients": "x1 saumon max à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695134-botw-roasted-hearty-salmon-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Saumon max",
+      "mat": "Saumon max",
+      "icon": "mat/Item_FishGet_I.webp",
+      "hp": 16
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 193,
+  "name": "Crabe grillé",
+  "effect": "rend 1 cœur et demi",
+  "ingredients": "x1 Crabe au choix à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695135-botw-blackened-crab-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Crabe au choix",
+      "mat": "Crabe lame",
+      "icon": "mat/Item_InsectGet_K.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 194,
+  "name": "Escargot Silencio grillé",
+  "effect": "rend des cœurs",
+  "ingredients": "x1 escargot silencio à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695136-botw-sneaky-river-escargot-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Escargot silencio",
+      "mat": "Escargot silencio",
+      "icon": "mat/Item_FishGet_M.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 195,
+  "name": "Fruit grillé",
+  "effect": "rend 1/2 cœur",
+  "ingredients": "x1 fruit à coque à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695137-botw-roasted-tree-nut-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Fruit à coque",
+      "mat": "Gland",
+      "icon": "mat/Item_Fruit_K.webp",
+      "hp": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 196,
+  "name": "Gland grillé",
+  "effect": "rend 1/2 cœur",
+  "ingredients": "x1 gland à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695138-acorn-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Gland",
+      "mat": "Gland",
+      "icon": "mat/Item_Fruit_K.webp",
+      "hp": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 197,
+  "name": "Oeuf grillé",
+  "effect": "rend 1 cœur et demi",
+  "ingredients": "x1 oeuf de volatile à mettre sur le feu",
+  "notes": [],
+  "img": "img/1695139-botw-campfire-egg-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Oeuf de volatile",
+      "mat": "Œuf de volatile",
+      "icon": "mat/Item_Material_04.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 198,
+  "name": "Oeuf dur",
+  "effect": "",
+  "ingredients": "",
+  "notes": [
+   "Obtention : posez un oeuf de volatile dans les sources chaudes du Village Goron."
+  ],
+  "img": "img/1695140-botw-hard-boiled-egg-icon-64x64-2.png",
+  "items": []
+ },
+ {
+  "id": 199,
+  "name": "Viande congelée",
+  "effect": "anti-chaleur pendant 1 minute + 1 cœur rouge",
+  "ingredients": "1 venaison",
+  "notes": [
+   "Méthode : allez dans une région froide comme Hébra et sortez la viande de votre inventaire pour qu'elle gèle. Fonctionne aussi avec viande fine et viande divine."
+  ],
+  "img": "img/1694747-botw-icy-meat-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison",
+      "mat": "Venaison",
+      "icon": "mat/Item_Meat_01.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 200,
+  "name": "Viande fine congelée",
+  "effect": "anti-chaleur pendant 1 minute + 1 cœur 1/2 rouge",
+  "ingredients": "1 venaison fine à sortir en température froide",
+  "notes": [],
+  "img": "img/1695141-botw-icy-prime-meat-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison fine",
+      "mat": "Venaison fine",
+      "icon": "mat/Item_Meat_02.webp",
+      "hp": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 201,
+  "name": "Viande divine congelée",
+  "effect": "anti-chaleur pendant 1 minute + 3 cœurs rouges",
+  "ingredients": "1 venaison divine à sortir en température froide",
+  "notes": [],
+  "img": "img/1695142-botw-icy-gourmet-meat-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Venaison divine",
+      "mat": "Venaison divine",
+      "icon": "mat/Item_Meat_11.webp",
+      "hp": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 202,
+  "name": "Volaille congelée",
+  "effect": "anti-chaleur pendant 1 minute + rend 1 cœur",
+  "ingredients": "x1 volaille à sortir en température froide",
+  "notes": [],
+  "img": "img/1695143-botw-frozen-bird-drumstick-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille",
+      "mat": "Viande de volaille",
+      "icon": "mat/Item_Meat_06.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 203,
+  "name": "Volaille fine congelée",
+  "effect": "anti-chaleur pendant 1 minute + rend 2 coeurs",
+  "ingredients": "x1 volaille fine à sortir en température froide",
+  "notes": [],
+  "img": "img/1695144-botw-frozen-bird-thigh-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille fine",
+      "mat": "Viande de volaille fine",
+      "icon": "mat/Item_Meat_07.webp",
+      "hp": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 204,
+  "name": "Volaille divine congelée",
+  "effect": "anti-chaleur pendant 1 minute + rend 3 coeurs",
+  "ingredients": "x1 volaille divine à sortir en température froide",
+  "notes": [],
+  "img": "img/1695145-botw-frozen-whole-bird-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Volaille divine",
+      "mat": "Volaille divine",
+      "icon": "mat/Item_Meat_12.webp",
+      "hp": 12
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 205,
+  "name": "Arowana congelé",
+  "effect": "anti-chaleur pendant 1 minute + rend 2 coeurs",
+  "ingredients": "x1 arowana ancien à sortir en température froide",
+  "notes": [],
+  "img": "img/1695146-botw-frozen-hearty-salmon-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Arowana ancien",
+      "mat": "Arowana ancien",
+      "icon": "mat/Item_FishGet_AA.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 206,
+  "name": "Perche congelée",
+  "effect": "anti-chaleur pendant 1 minute + rend 2 coeurs",
+  "ingredients": "x1 perche à sortir en température froide",
+  "notes": [],
+  "img": "img/1695147-botw-frozen-bass-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Perche",
+      "mat": "Perche d'Hyrule",
+      "icon": "mat/Item_FishGet_A.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 207,
+  "name": "Truite congelée",
+  "effect": "anti-chaleur pendant 1 minute + rend 1 coeur",
+  "ingredients": "x1 truite à sortir en température froide",
+  "notes": [],
+  "img": "img/1695148-botw-frozen-trout-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Truite",
+      "mat": "Truite glagla",
+      "icon": "mat/Item_FishGet_C.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 208,
+  "name": "Carpe congelée",
+  "effect": "anti-chaleur pendant 1 minute + rend 1 coeur",
+  "ingredients": "x1 carpe à sortir en température froide",
+  "notes": [],
+  "img": "img/1695149-botw-frozen-carp-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Carpe",
+      "mat": "Carpe tricolore",
+      "icon": "mat/Item_FishGet_Z.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 209,
+  "name": "Daurade congelée",
+  "effect": "anti-chaleur pendant 1 minute + rend 1 coeur",
+  "ingredients": "x1 daurade à sortir en température froide",
+  "notes": [],
+  "img": "img/1695150-botw-frozen-hearty-bass-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Daurade",
+      "mat": "Daurade lame",
+      "icon": "mat/Item_FishGet_F.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 210,
+  "name": "Troglodus congelé",
+  "effect": "anti-chaleur pendant 1 minute + rend 2 coeurs",
+  "ingredients": "x1 troglodus lumos à sortir en température froide",
+  "notes": [],
+  "img": "img/1695151-botw-frozen-trout-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Troglodus lumos",
+      "mat": "Troglodus lumos",
+      "icon": "mat/Item_FishGet_AC.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 211,
+  "name": "Perche Max congelée",
+  "effect": "anti-chaleur pendant 1 minute + rend 3 coeurs",
+  "ingredients": "x1 perche max à sortir en température froide",
+  "notes": [],
+  "img": "img/1695152-botw-frozen-hearty-salmon-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Perche max",
+      "mat": "Perche max",
+      "icon": "mat/Item_FishGet_B.webp",
+      "hp": 8
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 212,
+  "name": "Saumon Max congelé",
+  "effect": "anti-chaleur pendant 1 minute + rend des coeurs",
+  "ingredients": "x1 saumon max à sortir en température froide",
+  "notes": [],
+  "img": "img/1695153-botw-frozen-bass-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Saumon max",
+      "mat": "Saumon max",
+      "icon": "mat/Item_FishGet_I.webp",
+      "hp": 16
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 213,
+  "name": "Crabe congelé",
+  "effect": "anti-chaleur pendant 1 minute + rend 1 coeur et demi",
+  "ingredients": "x1 crabe à sortir en température froide",
+  "notes": [],
+  "img": "img/1695154-botw-frozen-crab-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Crabe",
+      "mat": "Crabe lame",
+      "icon": "mat/Item_InsectGet_K.webp",
+      "generic": true,
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 214,
+  "name": "Escargot Silencio congelé",
+  "effect": "anti-chaleur pendant 1 minute + rend des coeurs",
+  "ingredients": "x1 escargot silencio à sortir en température froide",
+  "notes": [],
+  "img": "img/1695155-botw-frozen-river-snail-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Escargot silencio",
+      "mat": "Escargot silencio",
+      "icon": "mat/Item_FishGet_M.webp",
+      "hp": 4
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 215,
+  "name": "Remède Enduro",
+  "effect": "en le buvant, vous regagner de l'endurance.",
+  "ingredients": "1 Sauterelle Enduro ou 1 Scarabée Enduro + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695157-botw-energizing-elixir-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Sauterelle Enduro",
+      "mat": "Sauterelle enduro",
+      "icon": "mat/Animal_Insect_H.webp",
+      "hp": 0
+     },
+     {
+      "label": "Scarabée Enduro",
+      "mat": "Scarabée enduro",
+      "icon": "mat/Animal_Insect_AA.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 216,
+  "name": "Remède Tempo",
+  "effect": "en le buvant, vous augmentez votre vitesse",
+  "ingredients": "1 Lézard Tempo ou 1 Grenouille Tempo + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695158-botw-hasty-elixir-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lézard Tempo",
+      "mat": "Lézard tempo",
+      "icon": "mat/Animal_Insect_S.webp",
+      "hp": 0
+     },
+     {
+      "label": "Grenouille Tempo",
+      "mat": "Grenouille tempo",
+      "icon": "mat/Animal_Insect_A.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 217,
+  "name": "Remède Pikpik",
+  "effect": "en le buvant, vous augmentez votre résistance au froid.",
+  "ingredients": "1 Libellule Piment ou 1 Papillon Piment + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695159-botw-spicy-elixir-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Libellule Piment",
+      "mat": "Libellule piment",
+      "icon": "mat/Animal_Insect_T.webp",
+      "hp": 0
+     },
+     {
+      "label": "Papillon Piment",
+      "mat": "Papillon piment",
+      "icon": "mat/Animal_Insect_Q.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 218,
+  "name": "Remède Glagla",
+  "effect": "en le buvant, vous augmentez votre résistance à la chaleur.",
+  "ingredients": "1 Libellule Glagla ou 1 Papillon Glagla + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695160-botw-chilly-elixir-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Libellule Glagla",
+      "mat": "Libellule glagla",
+      "icon": "mat/Animal_Insect_C.webp",
+      "hp": 0
+     },
+     {
+      "label": "Papillon Glagla",
+      "mat": "Papillon glagla",
+      "icon": "mat/Animal_Insect_N.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 219,
+  "name": "Remède Electro",
+  "effect": "en le buvant, vous augmentez votre résistance à l'électricité.",
+  "ingredients": "1 Libellule Volt ou 1 Papillon Volt + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695161-botw-electro-elixir-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Libellule Volt",
+      "mat": "Libellule volt",
+      "icon": "mat/Animal_Insect_I.webp",
+      "hp": 0
+     },
+     {
+      "label": "Papillon Volt",
+      "mat": "Papillon volt",
+      "icon": "mat/Animal_Insect_R.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 220,
+  "name": "Remède Ignifus",
+  "effect": "en le buvant, vous augmentez votre résistance à la chaleur.",
+  "ingredients": "1 Lézard Ignifus ou 1 Papillon Ignifus + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695162-botw-fireproof-elixir-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lézard Ignifus",
+      "mat": "Lézard ignifus",
+      "icon": "mat/Animal_Insect_X.webp",
+      "hp": 0
+     },
+     {
+      "label": "Papillon Ignifus",
+      "mat": "Papillon ignifus",
+      "icon": "mat/Animal_Insect_AB.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 221,
+  "name": "Remède Robusto",
+  "effect": "en le buvant, vous augmentez les dégâts que vous causez en attaquant les ennemis.",
+  "ingredients": "1 Scarabée Robusto + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695163-botw-mighty-elixir-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Scarabée Robusto",
+      "mat": "Scarabée armo",
+      "icon": "mat/Animal_Insect_P.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 222,
+  "name": "Remède Protecto",
+  "effect": "en le buvant, vous augmentez votre défense,",
+  "ingredients": "1 petit animal \"protecto\" + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695164-botw-tough-elixir-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Petit animal \"protecto\"",
+      "mat": "Scarabée armo",
+      "icon": "mat/Animal_Insect_P.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 223,
+  "name": "Remède Silencio",
+  "effect": "en le buvant, vous augmentez votre discrétion",
+  "ingredients": "1 Luciole de la sérénité + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695165-botw-sneaky-elixir-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Luciole de la sérénité",
+      "mat": "Luciole de la sérénité",
+      "icon": "mat/Animal_Insect_E.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 224,
+  "name": "Remède Adhésio",
+  "effect": "en le buvant, vous augmentez votre adhérence en escaladant les falaises.",
+  "ingredients": "1 Lézard Adhésio + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695166-sticky-elixir-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lézard Adhésio",
+      "mat": "Lézard adhésio",
+      "icon": "mat/Animal_Insect_AH.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 225,
+  "name": "Remède Lumos",
+  "effect": "en le buvant, vous obtenez l'effet de bioluminescence et éclairez autour de vous.",
+  "ingredients": "1 Luciole de l'ombre + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695167-bright-elixir-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Luciole de l'ombre",
+      "mat": "Luciole de l'ombre",
+      "icon": "mat/Animal_Insect_AI.webp",
+      "hp": 0
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 226,
+  "name": "Remède Vitalis",
+  "effect": "en le buvant, vous restaurez votre endurance et ajoutez une barre (jaune) supplémentaire d'endurance",
+  "ingredients": "1 Grenouille vigueur + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695168-botw-enduring-elixir-icon-64x64-1.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Grenouille vigueur",
+      "mat": "Grenouille vigueur",
+      "icon": "mat/Animal_Insect_B.webp",
+      "hp": 8
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 227,
+  "name": "Remède Max",
+  "effect": "en le buvant, vous restaurez tous vos cœurs et obtenez des cœurs jaunes supplémentaires qui s'enlèvent une fois consommés",
+  "ingredients": "1 Lézard ou autre petit animal \"max\" + 1 ressource de n'importe quel autre monstre",
+  "notes": [],
+  "img": "img/1695169-botw-hearty-elixir-icon-64x64-2.png",
+  "items": [
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Lézard ou autre petit animal \"max\"",
+      "mat": "Lézard max",
+      "icon": "mat/Animal_Insect_M.webp",
+      "hp": 16
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "alts": [
+     {
+      "label": "Ressource de n'importe quel autre monstre",
+      "mat": "Croc de Bokoblin",
+      "icon": "mat/Item_Enemy_01.webp",
+      "generic": true,
+      "hp": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 228,
+  "name": "Élixir féerique",
+  "effect": "en le buvant, vous récupérez tous vos cœurs.",
+  "ingredients": "",
+  "notes": [
+   "Conseil : gardez toujours des Fées dans votre inventaire, sans les cuisiner, pour qu'elles vous sauvent la vie instantanément si vous mourrez en plein combat."
+  ],
+  "img": "img/1695170-botw-fairy-tonic-icon-64x64-1.png",
+  "items": []
+ }
+]
